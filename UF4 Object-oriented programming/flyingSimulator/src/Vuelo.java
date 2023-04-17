@@ -1,11 +1,11 @@
 import java.util.ArrayList;
 
 public class Vuelo {
-    private String origen;
-    private String destino;
-    private String fechaSalida;
-    private int capacidadMaxima;
-    private ArrayList<Pasajero> pasajeros;
+    protected String origen;
+    protected String destino;
+    protected String fechaSalida;
+    protected int capacidadMaxima;
+    protected ArrayList<Pasajero> pasajeros;
 
     public Vuelo(String origen, String destino, String fechaSalida, int capacidadMaxima) {
         this.origen = origen;
