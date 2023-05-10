@@ -1,0 +1,2 @@
+Esto es una prueba de escritura en un fichero
+Esto es la segunda prueba de escritura en un fichero
