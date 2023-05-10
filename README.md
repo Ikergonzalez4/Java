@@ -1,2 +1,2 @@
 # Java
-Repository with all the DAM (Java) Exercices & Projects
+Repository with all the DAM Exercices & Projects
