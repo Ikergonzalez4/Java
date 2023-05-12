@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/UF3 File management/Exceptions/Exceptions.iml" filepath="$PROJECT_DIR$/UF3 File management/Exceptions/Exceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UF3 File management/Exercices/Exercices.iml" filepath="$PROJECT_DIR$/UF3 File management/Exercices/Exercices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GithubJava.iml" filepath="$PROJECT_DIR$/GithubJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UF3 File management/GonzalezIker_AC02/GonzalezIker_AC02.iml" filepath="$PROJECT_DIR$/UF3 File management/GonzalezIker_AC02/GonzalezIker_AC02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UF3 File management/TestFicheros/TestFicheros.iml" filepath="$PROJECT_DIR$/UF3 File management/TestFicheros/TestFicheros.iml" />
+    </modules>
+  </component>
+</project>
