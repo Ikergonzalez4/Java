@@ -1,15 +1,19 @@
 import java.util.Scanner;
 
-public class Practice {
+public class PracticeExceptions {
 
     public static void main(String[] args) {
+        numbers();
+        salary();
+    }
+
+    private static void salary() {
         Scanner scanner = new Scanner(System.in);
         int salario;
 
-        //numbers();
         try {
             System.out.println("Introduce el salario del empleado: ");
-             salario = scanner.nextInt();  // Read user input
+            salario = scanner.nextInt();  // Read user input
             Empleado empleado = new Empleado("Juan", salario);
             // Si se llega aquí, es que no ha habido excepción y se ha creado el objeto correctamente
             System.out.println("Se ha creado el empleado: " + empleado.getNombre() + " con salario: " + empleado.getSalario());
