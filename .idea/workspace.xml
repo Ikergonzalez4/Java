@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6c0a7a3f-fd3c-4da5-be1a-57331569f383" name="Changes" comment=".">
+      <change afterPath="$PROJECT_DIR$/UF3 File management/Exercices/numbers.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UF3 File management/Exercices/src/Ex_Exceptions/Ex3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UF3 File management/Exercices/src/Ex_java/io/Ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UF3 File management/Exercices/src/Ex_java/io/Ex2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UF3 File management/Exercices/src/Ex_java/io/Ex3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UF3 File management/Exercices/src/Ex_Exceptions/Ex2.java" beforeDir="false" afterPath="$PROJECT_DIR$/UF3 File management/Exercices/src/Ex_Exceptions/Ex2.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2PcAjRBhFfTqImJesjZpJhE89ni" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-19&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ikerg/IdeaProjects/GithubJava/UF3 File management&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ikerg\IdeaProjects\GithubJava\UF3 File management" />
+      <recent name="C:\Users\ikerg\IdeaProjects\GithubJava\UF3 File management\Exercices" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ikerg\IdeaProjects\GithubJava\UF3 File management" />
+      <recent name="C:\Users\ikerg\IdeaProjects\GithubJava\UF3 File management\TestFicheros" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Ex4">
+    <configuration name="Ex1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex_java.io.Ex1" />
+      <module name="Exercices" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ex_java.io.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex_Exceptions.Ex2" />
+      <module name="Exercices" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ex_Exceptions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex_Exceptions.Ex3" />
+      <module name="Exercices" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ex_Exceptions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex_java.io.Ex4" />
+      <module name="Exercices" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ex_java.io.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReadandWriteFiles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReadandWriteFiles" />
+      <module name="TestFicheros" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Ex4" />
+        <item itemvalue="Application.Ex1" />
+        <item itemvalue="Application.Ex3" />
+        <item itemvalue="Application.Ex2" />
+        <item itemvalue="Application.ReadandWriteFiles" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c0a7a3f-fd3c-4da5-be1a-57331569f383" name="Changes" comment="" />
+      <created>1683746130925</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683746130925</updated>
+    </task>
+    <task id="LOCAL-00001" summary="feat: new doc with practicing exercices">
+      <created>1683930941915</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683930941915</updated>
+    </task>
+    <task id="LOCAL-00002" summary="fix: code">
+      <created>1683931903063</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1683931903063</updated>
+    </task>
+    <task id="LOCAL-00003" summary="feat: test file for try read &amp; write">
+      <created>1683934405871</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1683934405871</updated>
+    </task>
+    <task id="LOCAL-00004" summary="feat: code">
+      <created>1683934424386</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1683934424386</updated>
+    </task>
+    <task id="LOCAL-00005" summary="feat: ex 1 of exceptions completed and structure of 2">
+      <created>1683935385260</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1683935385260</updated>
+    </task>
+    <task id="LOCAL-00006" summary=".">
+      <created>1683935407078</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1683935407078</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: new doc with practicing exercices" />
+    <MESSAGE value="fix: code" />
+    <MESSAGE value="feat: test file for try read &amp; write" />
+    <MESSAGE value="feat: code" />
+    <MESSAGE value="feat: ex 1 of exceptions completed and structure of 2" />
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
+  </component>
+</project>
